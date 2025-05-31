@@ -1,0 +1,12 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding-top: 50px;
+}
+.sl-wrapper {
+  background: rgba(46, 47, 66, 0.8);
+}
+.sl-close .sl-counter .sl-prev .sl-next {
+  fill: #fff;
+}
